@@ -19,13 +19,6 @@ The dataset consists of **81 records and 4 columns**, where:
 - Convert data types where necessary
 - Summarize insights for medical relevance
 
-## 🛠️ Tools and Libraries
-
-- Python 🐍
-- Pandas
-- Matplotlib / Seaborn
-- Jupyter Notebook
-
 ## 📊 Main Findings
 
 - Correlation analysis between age, number of vertebrae, and kyphosis outcome
